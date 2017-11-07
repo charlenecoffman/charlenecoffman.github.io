@@ -17,7 +17,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     
       <div class="w3-white w3-text-grey w3-card-4">
         <div class="w3-display-container">
-          <img src="/img/charlene.jpg" style="max-width:40%; height:auto; border:1px solid #; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
+          <img src="/img/charlene.jpg" style="border:1px solid #; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
           <div class="w3-display-bottomleft w3-container w3-text-black">
             <h2>Jane Doe</h2>
           </div>
