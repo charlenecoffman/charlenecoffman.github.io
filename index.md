@@ -1,4 +1,11 @@
-<img src="/img/charlene.jpg" style="max-width:40%; height:auto; border:1px solid #; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;"> <a> TEST </a>
+<div>
+    <div>
+        <img src="/img/charlene.jpg" style="max-width:40%; height:auto; border:1px solid #; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;"> 
+    </div>
+    <div style="text-align: left;">
+        <p> TEST </a>
+    </div>
+</div>
 
 <div class="w3-twothird">
     
@@ -20,12 +27,13 @@
           <h5 class="w3-opacity"><b>Analyst I / CTS</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>June 2015 - June 2016</h6>
           <p>I worked on the Application Support team and worked on a multitude of engagements as a consultant for the standing software solutions of the clients. The most notable of the projects that I worked on was a SharePoint 2013 application which allowed users to create templates for Excel files so that information could be imported into the system. I developed solutions to bugs and implemented feature requests in the SharePoint application, using .NET and C#.</p><br>
-        </div>
+       <hr>
+       </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Software Developer / ArchPatent</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>October 2012 - May 2015</h6>
           <p>I assisted in developing a Patent Searching solution Web API in a Ruby on Rails framework. Aspects of this was a web crawler which pulled new patent data and files from the US Patent Office sites, and a user interface for adding additional licenses for the API. I also assisted the company with establishing an issues and requests tracking system and software logging practices.</p><br>
-       <hr>
+       
        </div>
       </div>
       
