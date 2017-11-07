@@ -11,9 +11,9 @@
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Web Developer / something.com</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2012 - Dec 2014</h6>
-          <p>Consectetur adipisicing elit. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.</p>
+          <h5 class="w3-opacity"><b>Analyst II - CTS</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>June 2015 - May 2017</h6>
+          <p>I moved to Birmingham to lead a new client engagement, which would be a small team of 2 – 3 developers working at the client’s site on a Content Management solution for a nuclear plant. I completed a full analysis of the solution and designed changes for issues or enhancements requested by the client. As the technical lead for the project, I have managed the project tasks and the expectations of the client and the CTS portfolio director. I have communicated needs for our team when they arose and successfully managed time for my team. In addition to managing the engagement I implemented changes to the many micro-services using PL\SQL, C#, ASP.NET, SSIS and SSRS.</p>
           <hr>
         </div>
         <div class="w3-container">
