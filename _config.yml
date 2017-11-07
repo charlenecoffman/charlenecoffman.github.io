@@ -17,7 +17,7 @@ title: Charlene Coffman | Software Engineer
 email: coffmancharlene@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  This is the description for your website.
- <IMG src="https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/22281548_10156556279163368_3736102667601043898_n.jpg?oh=ed8abffe0b14284a8b62ca6ec95559ea&oe=5A621324">
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: char_machine
