@@ -25,9 +25,10 @@
           <h5 class="w3-opacity"><b>Software Developer / ArchPatent</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>October 2012 - May 2015</h6>
           <p>I assisted in developing a Patent Searching solution Web API in a Ruby on Rails framework. Aspects of this was a web crawler which pulled new patent data and files from the US Patent Office sites, and a user interface for adding additional licenses for the API. I also assisted the company with establishing an issues and requests tracking system and software logging practices.</p><br>
-        </div>
+       <hr>
+       </div>
       </div>
-
+      
       <div class="w3-container w3-card w3-white">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
         <div class="w3-container">
