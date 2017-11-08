@@ -3,7 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+<head>
+  <link rel="stylesheet" type="text/css" href="theme.css">
+</head>
 
 <div>
     <div style="float:left; max-width:40%;">
