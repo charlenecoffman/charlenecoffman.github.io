@@ -3,11 +3,11 @@
         <img src="/img/charlene.jpg" style="float: left; max-width:40%; height:auto; border:1px solid #; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;"> 
     </div>
     <div style="float: right">
-        <option>Four years of experience in complete lifecycle software development: from concept to delivery using agile methodology for development and automation pipelines for delivery.</option>
-        <option>Expert consulting experience in analyzing current solutions, developing cost-effective, and client-satisfaction driven results.</option>
-        <option>Advanced troubleshooting capabilities for researching and identifying defects, resolving, testing and deploying accurate solutions.</option>
-        <option>Writing high quality code with automated unit testing and integration testing, while focusing the industry standards in design principles and agile methodologies</option>
-        <option></option>
+       <li>Four years of experience in complete lifecycle software development: from concept to delivery using agile methodology for development and automation pipelines for delivery.</li>
+        <li>Expert consulting experience in analyzing current solutions, developing cost-effective, and client-satisfaction driven results.</li>
+        <li>Advanced troubleshooting capabilities for researching and identifying defects, resolving, testing and deploying accurate solutions.</li>
+        <li>Writing high quality code with automated unit testing and integration testing, while focusing the industry standards in design principles and agile methodologies</li>
+        <li></li>
     </div>
 </div>
 
