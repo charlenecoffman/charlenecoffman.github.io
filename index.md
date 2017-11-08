@@ -51,3 +51,7 @@
 
     <!-- End Right Column -->
     </div>
+    
+    <div>
+        <a href="/Charlene R Coffman.pdf" download>
+    </div>
