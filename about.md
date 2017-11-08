@@ -27,20 +27,20 @@ permalink: /about/
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Analyst II / CTS</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>June 2016 - May 2017</h6>
+          <h4 class="w3-opacity"><b>Analyst II / CTS</b></h4>
+          <h5 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>June 2016 - May 2017</h5>
           <p>I moved to Birmingham to lead a new client engagement, which would be a small team of 2 – 3 developers working at the client’s site on a Content Management solution for a nuclear plant. I completed a full analysis of the solution and designed changes for issues or enhancements requested by the client. As the technical lead for the project, I have managed the project tasks and the expectations of the client and the CTS portfolio director. I have communicated needs for our team when they arose and successfully managed time for my team. In addition to managing the engagement I implemented changes to the many micro-services using PL\SQL, C#, ASP.NET, SSIS and SSRS.</p>
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Analyst I / CTS</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>June 2015 - June 2016</h6>
+          <h4 class="w3-opacity"><b>Analyst I / CTS</b></h4>
+          <h5 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>June 2015 - June 2016</h5>
           <p>I worked on the Application Support team and worked on a multitude of engagements as a consultant for the standing software solutions of the clients. The most notable of the projects that I worked on was a SharePoint 2013 application which allowed users to create templates for Excel files so that information could be imported into the system. I developed solutions to bugs and implemented feature requests in the SharePoint application, using .NET and C#.</p><br>
        <hr>
        </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Software Developer / ArchPatent</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>October 2012 - May 2015</h6>
+          <h4 class="w3-opacity"><b>Software Developer / ArchPatent</b></h4>
+          <h5 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>October 2012 - May 2015</h5>
           <p>I assisted in developing a Patent Searching solution Web API in a Ruby on Rails framework. Aspects of this was a web crawler which pulled new patent data and files from the US Patent Office sites, and a user interface for adding additional licenses for the API. I also assisted the company with establishing an issues and requests tracking system and software logging practices.</p><br>
        
        </div>
