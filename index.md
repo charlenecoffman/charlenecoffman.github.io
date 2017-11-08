@@ -1,6 +1,6 @@
 <div>
     <div style="float:left; max-width:40%;">
-        <img src="/img/charlene.jpg" style="max-width:40%; height:auto; border:1px solid #; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;"> 
+        <img src="/img/charlene.jpg" style="width:auto; height:auto; border:1px solid #; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;"> 
     </div>
     <div style="float:left; max-width:60%;">
        <li>Four years of experience in complete lifecycle software development: from concept to delivery using agile methodology for development and automation pipelines for delivery.</li>
