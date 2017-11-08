@@ -21,8 +21,8 @@ permalink: /about/
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
         <div class="w3-container">
-          <h4 class="w3-opacity"><b>Software Developer / INTL FCStone, Inc.</b></h5>
-          <h5 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>May 2017 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
+          <h4 class="w3-opacity"><b>Software Developer / INTL FCStone, Inc.</b></h4>
+          <h5 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>May 2017 - <span class="w3-tag w3-teal w3-round">Current</span></h5>
           <p>As a software developer with INTL FCStone I worked on a team of 4 developers to maintain an ASP.NET C# web application which assisted Financial Representatives in making trade transactions and comparing trends over time. In maintaining this application I implemented changes to correct bugs and add in new features to the website.</p>
           <hr>
         </div>
