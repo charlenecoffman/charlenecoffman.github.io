@@ -7,7 +7,6 @@
         <li>Expert consulting experience in analyzing current solutions, developing cost-effective, and client-satisfaction driven results.</li>
         <li>Advanced troubleshooting capabilities for researching and identifying defects, resolving, testing and deploying accurate solutions.</li>
         <li>Writing high quality code with automated unit testing and integration testing, while focusing the industry standards in design principles and agile methodologies</li>
-        <li></li>
     </div>
 </div>
 
