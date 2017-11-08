@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Charlene Coffman | Software Engineer
-permalink: /about/
+permalink: /resume/
 ---
 
 
