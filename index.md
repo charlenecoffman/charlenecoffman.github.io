@@ -53,5 +53,5 @@
     </div>
     
     <div>
-        <a href="/Charlene R Coffman.pdf" download >Resume</a>
+        <a href="/Charlene R Coffman.pdf" download >Download a copy of my resume here</a>
     </div>
