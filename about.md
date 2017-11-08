@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Charlene Coffman | Software Engineer
 permalink: /about/
 ---
 
