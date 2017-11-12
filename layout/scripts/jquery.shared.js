@@ -17,14 +17,6 @@ $(document).ready(function() {
 		  });
 	
 	
-	$.ajax({
-		  url: "http://poetrydb.org/author/Emily%20Dickinson",
-		  dataType: "json",
-		  success: function(data) {
-			  alert("test");
-		  }
-		});
-	
 });
 
 function getRandomNumber(min, max) {
