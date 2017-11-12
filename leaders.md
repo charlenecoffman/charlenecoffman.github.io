@@ -30,9 +30,34 @@ permalink: /leaders/
 		<p> A colleague of mine told me something extremely simple to understand and totally obvious once it was pointed out to me:
 			Lets look at how the leaders in our field have solved this problem, a do what they do.</p>
 		<p> Its so simple, but so true. Teams of individuals at Google and Microsoft and StackOverflow have come across alot of 
-			these problems before and if they have solved the problem in a certain way that works well, then why should I think 
+			these problems before and if they have solved the problem in a way that works well, then why should I think 
 			that I will be able to spend less time coming up with something even better.</p>
-	  
+		
+		<p> My attempt at keeping up with the industry also includes reading blogs of the greats and following them on twitter. </p>
+		
+		<hr>
+		
+		<h6>Blogs</h6>
+		
+		<p> Mike Cohn - Mountain Goat Software<br>
+		<a href="http://www.mountaingoatsoftware.com/blog"> Blog Here </a>
+		</p>		
+		
+		<p> John Skeet <br>
+		<a href="https://codeblog.jonskeet.uk/"> Blog Here </a>
+		</p>
+		
+		<p> John Papa <br>
+		<a href="https://johnpapa.net/"> Blog Here </a>
+		</p>
+		
+		<hr>
+		
+		<h6>Twitter</h6>
+		
+		<div id="twitterfeed">
+			<a class="twitter-timeline" href="https://twitter.com/char_machine?ref_src=twsrc%5Etfw">Tweets by char_machine</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+		</div>
 	</div>
 	
   </main>
