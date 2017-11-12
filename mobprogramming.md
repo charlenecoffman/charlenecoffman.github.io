@@ -4,4 +4,46 @@ title: Mob Programming
 permalink: /mobprogramming/
 ---
 
-This is for mob programming thoughts
+<html>
+<head>
+<title>Charlene Coffman | Mob Programming</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="../layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+</head>
+<body id="top">
+
+<div id="header_placeholder"></div>
+
+<div class="wrapper row3">
+  <main class="hoc container clear">
+  
+    <div class="sidebar one_quarter first" style="text-align:center;"> 
+	
+      <i class="block fa fa-3x fa-users"></i><br>
+	  <h6>Woody Zuill's Mob Programming</h6>
+
+    </div>
+	
+    <div class="content three_quarter"> 
+		  
+      <p>Woody Zuill is a leader in software development who writes and speaks about mob programming in the industry. I watched his address at DNC London and began to realize that thier is merit to the idea of not just pair programming, but mob programming. I realized what a high-functioning team's success could look like.</p>
+	  
+	  <p>He has written books on the subject which you can see <a href="https://leanpub.com/mobprogramming">here</a>. But the recording he did of a mob programming session is a good watch for anyone who wants to attempt to implement this cutting-edge process.</p>
+	  
+	  <iframe width="640" height="400" src="https://www.youtube.com/embed/5cvaCq1q9_E" frameborder="0" gesture="media" allowfullscreen></iframe>
+	  
+	</div>
+	
+  </main>
+</div>
+
+<div id="footer_placeholder"></div>
+
+<!-- JAVASCRIPTS -->
+<script src="../layout/scripts/jquery.min.js"></script>
+<script src="../layout/scripts/jquery.backtotop.js"></script>
+<script src="../layout/scripts/jquery.mobilemenu.js"></script>
+<script src="../layout/scripts/jquery.shared.js"></script>
+</body>
+</html>
