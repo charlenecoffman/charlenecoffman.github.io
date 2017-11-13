@@ -4,8 +4,10 @@ $( document ).ready(function() {
 	{
 		LoadBlogArticle(window.location.href.substr(paramIndex + 1));
 	}
-});
+}); 
+
 function LoadBlogArticle(name){
 	var path = "../../posts/" + name;
 	$("#blog_placeholder").load(path);
 }
+
