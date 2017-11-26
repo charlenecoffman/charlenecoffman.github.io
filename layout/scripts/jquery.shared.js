@@ -47,7 +47,7 @@ function httpGetAsync(theUrl, callback)
 
 function GetRandomWord() {
 	
-	var arrayOfRandomWords = new Array('grass', 'love', 'stars', 'eyes', 'dance');
+	var arrayOfRandomWords = new Array('grass', 'love', 'stars', 'eyes', 'dance', 'lovers', 'child', 'sing', 'song', 'mouth');
 	var randomnumber = Math.floor(Math.random() * arrayOfRandomWords.length)
 	
 	return arrayOfRandomWords[randomnumber];
