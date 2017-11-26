@@ -27,7 +27,7 @@ function ShowPoem() {
 						if(theChosenOne['poembody'] != "")
 						{
 							$("#poem_title").html(theChosenOne['title']);
-							$("#author").html(theChosenOne['poem']);
+							$("#author").html(theChosenOne['poet']);
 							$("#poem_body").html(theChosenOne['poembody']);
 						}
 					  }
