@@ -58,8 +58,10 @@ function PickAPoem(theJson) {
 	var results = theJson.getElementsByTagName("results")[0].childNodes;
 	
 	var returnPoem = new Object();
-		
-	for(i=0; i<results.length; i++)
+	
+	var startRandom = Math.floor(Math.random() * 4);
+	
+	for(i=startRandom; i<results.length; i++)
 	{
 		var poem = results[i].childNodes;
 		
