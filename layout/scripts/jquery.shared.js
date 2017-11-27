@@ -3,6 +3,8 @@ $("#header_placeholder").load("/includes/header.html");
 $("#footer_placeholder").load("/includes/footer.html");
 $("#copyright_placeholder").load("/includes/copyright.html");
 $("#topnav_placeholder").load("/includes/topmedianav.html");
+$(".active").removeClass("active");
+SetActive(window.location.href);
 ShowPoem();
 
 $.ajax({
@@ -17,7 +19,17 @@ $.ajax({
 					});
 				 }
 	  });
-		  
+
+function SetActive(url) {
+	var OptionSelected = ParsePage(url);
+	$("#" + OptionSelected).addClass("active");
+}
+
+function ParsePage(beginurl){
+	 var res = beginurl.substring(beginurl.indexOf(".com") + 5, beginurl.indexOf(".html"));
+	 return res;
+}
+	  
 function ShowPoem() {
 	var randomWord = GetRandomWord();
 	var url = 'http://www.stands4.com/services/v2/poetry.php?uid=6045&tokenid=aQCgkteFXzfeLRjH&term=' + randomWord;
